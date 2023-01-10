@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SeparaPalabras.iml" filepath="$PROJECT_DIR$/SeparaPalabras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeparaYOrdenaPalabras.iml" filepath="$PROJECT_DIR$/SeparaYOrdenaPalabras.iml" />
     </modules>
   </component>
 </project>
